@@ -11,5 +11,4 @@ google-auth-httplib2
 google-api-python-client
 requests
 msal
-pywin32
 PyPDF2
