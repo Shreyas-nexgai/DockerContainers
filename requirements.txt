@@ -1,0 +1,15 @@
+weaviate-client
+sqlalchemy
+crewai
+langchain
+psycopg2
+langchain-openai
+crewai-tools
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+requests
+msal
+pywin32
+PyPDF2
